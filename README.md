@@ -14,8 +14,14 @@ JWT
 
 ## Live Website: https://quiet-phoenix-c8dc75.netlify.app/
 
-
+### Screenshot from the frontend
+#### login
 ![Screenshot of Application](https://github.com/almarzouk/frontend/blob/main/Screenshot%202023-03-18%20at%2013.56.29.png)
+
+
+### Screenshot from the frontend
+#### goals
+![Screenshot of Application](https://github.com/almarzouk/frontend/blob/main/Screenshot%202023-03-18%20at%2013.56.45.png)
 
 ## User Authentication
 
