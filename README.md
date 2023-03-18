@@ -14,6 +14,9 @@ JWT
 
 ## Live Website: https://quiet-phoenix-c8dc75.netlify.app/
 
+
+![Screenshot of Application](https://github.com/almarzouk/frontend/blob/main/Screenshot%202023-03-18%20at%2013.56.29.png)
+
 ## User Authentication
 
 To use the application, you need to sign up for an account first. Click on the "Sign up" button in the top right corner of the application and enter your name, email address, and password. Once you have signed up, you will be automatically logged in and redirected to the home page.
